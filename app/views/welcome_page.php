@@ -616,7 +616,7 @@ defined('PREVENT_DIRECT_ACCESS') OR exit('No direct script access allowed');
     <div class="wrap">
         <div class="section-label">// features</div>
         <h2 class="section-title">Everything you need.<br>Nothing you don't.</h2>
-        <p class="section-desc">LavaLust gives you a clean, consistent structure so you can focus on building — not configuring.</p>
+        <p class="section-desc">LavaLust gives you a clean, consistent structure so you can focus on building — not configuring. Welcome to LavaLust Alex Ethan</p>
 
         <div class="features-layout">
             <div class="feature">
