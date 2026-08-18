@@ -12,7 +12,7 @@ class StudentController extends Controller
 
         $data['page_title'] = 'Alex Ethan\'s Student Portal';
         $data['name'] = 'Alex Ethan Hernandez';
-        $this->call->view('student/home', $data);
+        $this->call->view('student/homepage', $data);
     }
 
     public function profile()
